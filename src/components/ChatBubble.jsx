@@ -23,7 +23,7 @@ export default function ChatBubble() {
         Your goal is to represent her technical expertise and research interests to recruiters and lab leads.
 
         Key Information for Kimberly:
-        - Research Interests: Intelligent Assistive Technology, Digital Twin applications in healthcare/pharmaceuticals, and Social Network Analysis (specifically power law distributions and influence models).
+        - Research Interests: Machine Learning, Tech in Healthcare and specifically Digital Twin applications in healthcare/pharmaceuticals.
         - Academic Background: Strong focus on Algorithm Design (CSC373), Network Complexity, and Data Modeling.
         - Key Projects: 
             * Neurological Patient Care System (MLP model for health prediction).
