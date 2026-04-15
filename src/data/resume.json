@@ -1,0 +1,103 @@
+{
+  "skills": [
+    { "label": "Programming Languages", "value": "Python, Java, C, JavaScript, SQL, R, MIPS Assembly" },
+    { "label": "Web Technologies", "value": "HTML, CSS, React, Flask, REST API, Node.js, Express" },
+    { "label": "Tools and Databases", "value": "PostgreSQL, Git, Bash, VS Code, Render, Figma" },
+    { "label": "Spoken Languages", "value": "Mandarin, English, Cantonese, Spanish (beginner)" }
+  ],
+  "projects": [
+    {
+    "name": "Personal Website",
+    "tech": "React / Vite / Tailwind CSS / Gemini API",
+    "date": "February 2026",
+    "bullets": [
+        "Built and deployed a personal portfolio site at **kiiimfu.me** using **React**, **Vite**, and **Tailwind CSS**, hosted on Vercel.",
+        "Integrated an AI chatbot powered by **Gemini API** directly in the browser — no backend required."
+    ]
+    }
+    ,
+    {
+      "name": "Survey-Based ML Random Forest Prediction Model",
+      "tech": "Python / Random Forest",
+      "date": "November 2025",
+      "bullets": [
+        "Trained a Random Forest model based on **825 survey responses** with mixed numeric and text features.",
+        "Optimized **7 hyperparameters** using Optuna. Achieved **70.24%** test accuracy."
+      ]
+    },
+    {
+      "name": "Calendar Sharing Web App (FamCalendar)",
+      "tech": "HTML / CSS / JavaScript / Render",
+      "date": "October 2025",
+      "bullets": [
+        "Developed a web-based Progressive Web App (**PWA**) enabling real-time calendar sharing across users.",
+        "Integrated open-source **pyicloud** to securely access and sync events from users' iCloud accounts."
+      ]
+    },
+    {
+      "name": "Neurological Patient Care System",
+      "tech": "Python / ML / PostgreSQL / Hackathon",
+      "date": "February 2025",
+      "bullets": [
+        "Trained a **MLP model** to achieve **90%+** accuracy (with 11.5k set of EEG data from Kaggle) in predicting possibilities of future neurological disorder.",
+        "Built a database based on **PostgreSQL** that stores data of healthcare providers and patients."
+      ]
+    },
+    {
+      "name": "Mystery Liquid Crime Scene Simulation",
+      "tech": "Ren'Py",
+      "date": "April 2025",
+      "bullets": [
+        "Built a Ren'Py-based visual novel simulating game, featuring branching logic, decision trees, and a custom UI."
+      ]
+    },
+    {
+      "name": "Gear Up (G1 Driving Test Preparation App)",
+      "tech": "Java / SOLID Principle",
+      "date": "November 2024",
+      "bullets": [
+        "Built two user cases (study/test mode) based on **SOLID principle**; also built two GUI respectively."
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Guangzhou Anchoracademy Education Consulting Co., Ltd.",
+      "location": "Guangzhou / Remote",
+      "role": "Co-Founder / General Partner / Project Manager",
+      "dates": "June 2023 — Present",
+      "bullets": [
+        "Leading development of an APP (in progress): Construct AI assistant decision model.",
+        "Co-founded the company, supported more than **400 international students** (including pro bono)."
+      ]
+    },
+    {
+      "company": "University of Toronto Math Outreach",
+      "location": "Toronto / Remote",
+      "role": "Teaching Assistant",
+      "dates": "July 2024 — Present",
+      "bullets": [
+        "Assist math/computer science instructor with class contents."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Toronto",
+      "status": "Now attending",
+      "location": "Toronto",
+      "degree": "Bachelor of Science in Computer Science Specialist (ASIP)",
+      "dates": "September 2023 — June 2028 (expected)",
+      "courses": "Software Design; Database; Data Structure; Machine Learning; Foundation of Computer Security; Artificial Intelligence; Web Programming; Algorithm, etc."
+    }
+  ],
+  "leadership": {
+    "events": "Attended 2024/2025 CAN-CWiC, 2025 WiAIG Event, NeuroHack etc.",
+    "certificates": "Google Cybersecurity Professional Certificate, ISC2 CC certificate (both in progress)",
+    "roles": [
+      "Captain: UofT Intramural Division 1 Mix Basketball, District Basketball Team (7+ yrs)",
+      "Coach/Founder: Highschool Women's Varsity Team"
+    ],
+    "interests": "Piano (ABRSM grade 8); Basketball (Intramural champion, City Champion, etc.)"
+  }
+}
