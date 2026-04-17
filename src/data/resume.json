@@ -12,7 +12,7 @@
     "date": "February 2026",
     "bullets": [
         "Built and deployed a personal portfolio site at **kiiimfu.me** using **React**, **Vite**, and **Tailwind CSS**, hosted on Vercel.",
-        "Integrated an AI chatbot powered by **Gemini API** directly in the browser — no backend required."
+        "Integrated an AI chatbot powered by **Gemini API** directly in the browser."
     ]
     }
     ,
